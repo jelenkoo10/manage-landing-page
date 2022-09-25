@@ -95,3 +95,4 @@ Also, I managed to learn how to change color of svg images when they're referred
 
 - GitHub - [https://github.com/jelenkoo10](https://github.com/jelenkoo10)
 - Frontend Mentor - [@jelenkoo10](https://www.frontendmentor.io/profile/jelenkoo10)
+- LinkedIn - [Veljko Jelenković](https://www.linkedin.com/in/veljko-jelenkovi%C4%87-182981250/)
